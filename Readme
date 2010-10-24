@@ -1,0 +1,8 @@
+This is a really simple package manager that uses either gz compression or no compression. It demonstrates the basics of a package manager.
+
+Please note, this program will *not* install anything on your system unless you change the variable "DangerMode" to true in main.c
+
+Also note, you can find a couple example packages to install/tinker with in example-packages/
+
+Have fun!
+- GeekyLink
